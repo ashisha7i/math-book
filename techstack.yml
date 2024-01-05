@@ -1,7 +1,8 @@
 repo_name: ashisha7i/math-book
 report_id: b0dd4b649f992b6621b3924a639b7810
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-10T00:58:47+00:00'
+timestamp: '2024-01-05T09:03:53+00:00'
 requested_by: ashisha7i
 provider: github
 branch: master
@@ -15,4 +16,5 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/ashisha7i/math-book
   detection_source: Repo Metadata
